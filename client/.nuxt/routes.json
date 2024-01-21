@@ -1,0 +1,16 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "C:\\\\Users\\\\chris\\\\Downloads\\\\Web server\\\\odaawork\\\\bitcoin-price-tracker\\\\client\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_434fe1ba"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\chris\\\\Downloads\\\\Web server\\\\odaawork\\\\bitcoin-price-tracker\\\\client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_75dee49c"
+  }
+]

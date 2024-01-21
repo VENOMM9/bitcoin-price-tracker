@@ -1,0 +1,17 @@
+{
+  "Chats": {
+    "description": "Auto imported from components/Chats.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "PriceChart": {
+    "description": "Auto imported from components/PriceChart.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  }
+}
