@@ -5,6 +5,8 @@
       No data available for chart.
     </div>
     <div v-for="datas in data" :key="datas._id">
+      <div>Timestamp: {{ datas.timestamp }}</div>
+      <div>Value: {{ datas.value }}</div>
      {{ datas }}
     </div>
   </div>
@@ -24,7 +26,7 @@ export default {
     },
   },
   mounted() {
-    // this.renderChart(this.chartData, this.chartOptions);
+    this.renderChart(this.chartData, this.chartOptions);
     console.log('chart mounted');
     console.log(this.data);
   },
