@@ -19,12 +19,12 @@ This repository contains a full-stack application for tracking historical Bitcoi
 
 ### Clone the Repository
 
-git clone https://github.com/VENOMM9/bitcoin-price-app.git
-cd bitcoin-price-app
+- git clone https://github.com/VENOMM9/bitcoin-price-app.git
+- cd bitcoin-price-app
 
 ## Environment Variables
 Create a .env file in the root directory and set the following environment variables:
-MONGODB_URI=mongodb://mongo:27017/bitcoin-price-db
+- MONGODB_URI=mongodb://mongo:27017/bitcoin-price-db
 
 ## Build and Run Docker Containers
 docker-compose up --build
@@ -32,9 +32,9 @@ docker-compose up --build
 Visit http://localhost:3450 in your browser to access the application.
 
 ## Usage
-Open your browser and go to http://localhost:3450
-Select the desired display period for Bitcoin price data
-Explore the historical price chart
+- Open your browser and go to http://localhost:3450
+- Select the desired display period for Bitcoin price data
+- Explore the historical price chart
 
 
 
